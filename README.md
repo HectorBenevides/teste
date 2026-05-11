@@ -11,8 +11,6 @@ npm run dev
 yarn dev
 # ou
 pnpm dev
-# ou
-bun dev
 
 Depois, abra http://localhost:3000 no navegador para visualizar o projeto.
 
